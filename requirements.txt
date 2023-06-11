@@ -1,0 +1,5 @@
+statsmodels
+numpy
+pandas
+matplotlib
+skikit-learn
